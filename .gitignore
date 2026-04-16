@@ -1,0 +1,13 @@
+# Ignorar pastas de ambiente e cache do Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.virtual_documents/
+
+# Ignorar os dados e os modelos pesados
+dataset/
+Modelos_Treinados/
+*.pt
+*.jfif
+*.jpg
+*.png
+*.jpeg
